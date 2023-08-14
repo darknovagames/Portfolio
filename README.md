@@ -18,4 +18,4 @@ The game was tested with Supersonic and CPI turned out to be too high.
 
 A game that tries to combine fps, tap-timing and fashion themes.
 Concept didn't work out.
-Wrote a custom shader for that was actually quite simple, but performed over %100 better than most other shaders.
+Wrote the custom shader that I used in this game, that increased the performance by over %100.
