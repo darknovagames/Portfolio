@@ -12,3 +12,10 @@ The idea was killed as ARPU got stuck at around 0.06$ despite all my efforts to 
 ![](https://github.com/darknovagames/Portfolio/blob/main/Kebabster_Gameplay.gif)
 
 The game was tested with Supersonic and CPI turned out to be too high.
+
+# Shoet
+![](https://github.com/darknovagames/Portfolio/blob/main/Shoet_Gameplay.gif)
+
+A game that tries to combine fps, tap-timing and fashion themes.
+Concept didn't work out.
+Wrote a custom shader for that was actually quite simple, but performed over %100 better than most other shaders.
