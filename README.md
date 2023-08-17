@@ -26,7 +26,7 @@ It was tested with Supersonic and CPI turned out to be too high.
 
 ![](https://github.com/darknovagames/Portfolio/blob/main/Shoet_Gameplay.gif)
 
-A game that tries to combine fps, tap-timing and fashion themes.
+A game that combines fps, tap-timing and fashion themes.
 Wrote the custom shader that I used in this game from scratch, which increased the performance by over %100.
 
 
