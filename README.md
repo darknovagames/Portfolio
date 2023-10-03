@@ -1,4 +1,4 @@
-# Portfolio
+# Muhammet Özer - Portfolio
 
 
 ## SQ Maze
@@ -28,6 +28,15 @@ I tested it with Supersonic and CPI turned out to be too high.
 
 A game that combines fps, tap-timing and fashion themes.
 Wrote the custom shader that I used in this game from scratch, which increased the performance by over %100.
+
+
+
+
+## Strategy Masters
+
+
+
+A prototype that showcases some of my abilities in graphics. Made all models and animations from scratch.
 
 
 
