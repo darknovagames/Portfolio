@@ -34,7 +34,7 @@ Wrote the custom shader that I used in this game from scratch, which increased t
 
 ## Strategy Masters
 
-
+![](https://github.com/darknovagames/Portfolio/blob/main/Strategy_Masters_Gameplay.gif)
 
 A prototype that showcases some of my abilities in graphics. Made all models and animations from scratch.
 
